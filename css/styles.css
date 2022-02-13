@@ -1,0 +1,46 @@
+h1{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: dotted;
+    text-align: center;
+    
+}
+
+h2 {
+    color: aqua;
+    font-size: 23px;
+    font-family: fantasy;
+    
+}
+img {
+    
+    height: auto;
+    width: 500px;
+}
+
+
+
+
+
+.alert-text {
+    color: rgb(128, 28, 28);
+}
+
+#title {
+    background-color: rgb(17, 32, 243);
+}
+
+
+#lala {background-color: mintcream;}
+
+ p {
+    color: darkblue;
+}
+
+ul>li {
+    color: darkorange;
+}
+
+* {
+   border: 2px solid red;
+}
